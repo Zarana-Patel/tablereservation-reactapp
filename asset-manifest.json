@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tablereservation-reactapp/static/css/main.ea5da069.css",
+    "main.js": "/tablereservation-reactapp/static/js/main.8e271154.js",
+    "static/js/787.3ecd7fac.chunk.js": "/tablereservation-reactapp/static/js/787.3ecd7fac.chunk.js",
+    "static/media/restaurant.jpg": "/tablereservation-reactapp/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/banner.png": "/tablereservation-reactapp/static/media/banner.1e70b53279ea93729317.png",
+    "static/media/MarioAdrianA.jpg": "/tablereservation-reactapp/static/media/MarioAdrianA.2b9ddbbe00405f25fdbb.jpg",
+    "static/media/greek.png": "/tablereservation-reactapp/static/media/greek.2e68eef7290d71d8aa2e.png",
+    "static/media/brucheta.png": "/tablereservation-reactapp/static/media/brucheta.c233903dab8a01d3cb9a.png",
+    "static/media/desert.png": "/tablereservation-reactapp/static/media/desert.7a5bf3cbd540303f7b5e.png",
+    "static/media/Logo.svg": "/tablereservation-reactapp/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "static/media/client.png": "/tablereservation-reactapp/static/media/client.c29b4ef31d59d14b7271.png",
+    "static/media/footer_logo.png": "/tablereservation-reactapp/static/media/footer_logo.0ab4301bc030856d2a08.png",
+    "index.html": "/tablereservation-reactapp/index.html",
+    "static/media/hamburger.svg": "/tablereservation-reactapp/static/media/hamburger.c3d61fa4ae6c27ff93fc628406c9786c.svg",
+    "static/media/youtube.svg": "/tablereservation-reactapp/static/media/youtube.073b21c866d86fd7eb2aa2ba426df508.svg",
+    "static/media/instagram.svg": "/tablereservation-reactapp/static/media/instagram.02b7eea0e110f2743c031b82148c22ee.svg",
+    "static/media/star.svg": "/tablereservation-reactapp/static/media/star.57f6d10f8d50b6c9dc028d7885d64fd8.svg",
+    "static/media/facebook.svg": "/tablereservation-reactapp/static/media/facebook.0acecb10a7dce8bc715ef04718bfc8a3.svg",
+    "main.ea5da069.css.map": "/tablereservation-reactapp/static/css/main.ea5da069.css.map",
+    "main.8e271154.js.map": "/tablereservation-reactapp/static/js/main.8e271154.js.map",
+    "787.3ecd7fac.chunk.js.map": "/tablereservation-reactapp/static/js/787.3ecd7fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea5da069.css",
+    "static/js/main.8e271154.js"
+  ]
+}
