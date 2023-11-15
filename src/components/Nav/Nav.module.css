@@ -1,0 +1,68 @@
+.burger {
+  align-self: center;
+  justify-self: start;
+}
+
+.mainNav {
+  position: fixed;
+  top: 80px;
+  left: 0;
+  background: white;
+  height: 100%;
+  width: 100%;
+  border-top: 1px solid var(--hight-gray)
+}
+
+.mainMenu {
+  list-style: none;
+}
+
+.mainMenu li {
+  text-align: center;
+  margin: var(--gap-6x);
+}
+
+.mainMenu li a {
+  font-weight: 800;
+  color: var(--primary-one);
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 0 var(--gap-x);
+  transition: color 0.3s;
+}
+
+.mainMenu li a:hover {
+  color: var(--primary-two);
+}
+
+
+/*******************************************************************
+/* Desktop */
+
+
+@media screen and (min-width: 1024px) {
+  .burger {
+    display: none;
+  }
+
+  .mainNav {
+    position: static;
+    background: white;
+    height: auto;
+    width: auto;
+    box-shadow: none;
+    order: 2;
+    justify-self: stretch;
+    align-self: center;
+    border: none;
+  }
+
+  .mainMenu {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .mainMenu li {
+    margin: 0;
+  }
+}

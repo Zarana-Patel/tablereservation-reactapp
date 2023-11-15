@@ -1,0 +1,37 @@
+.wrapper {
+  background-color: white;
+  text-align: center;
+}
+.container {
+  padding: var(--gap);
+}
+.header {
+  margin-top: var(--gap-6x);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  color: var(--primary-one);
+}
+.content {
+  margin: 3.2rem 0;
+}
+/*******************************************************************
+/* Desktop */
+@media screen and (min-width: 1024px) {
+  .container {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: var(--gap);
+    display: inline-grid;
+  }
+  .content {
+    margin: 6.4rem 0;
+    width: 100%;
+    display: grid;
+    gap: var(--gap-6x);
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+  }
+}

@@ -1,0 +1,18 @@
+.article {
+  background-color: white;
+  padding: var(--gap);
+  max-width: 200px;
+}
+
+.img img {
+  border-radius: 100%;
+  overflow: hidden;
+}
+
+.stars {
+  text-align: center;
+  display: flex;
+  margin: var(--gap-2x);
+  justify-content: center;
+  color: var(--secondary-one);
+}

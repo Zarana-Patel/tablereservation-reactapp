@@ -1,0 +1,24 @@
+.wrapper {
+  padding: var(--gap-6x) 0;
+  background-color: var(--hight-gray);
+  text-align: center;
+}
+
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: var(--gap);
+}
+
+.title {
+  color: var(--primary-one);
+  text-align: center;
+}
+
+.reviews {
+  margin: 6.4rem 0 0;
+  display: flex;
+  gap: var(--gap-6x);
+  justify-content: center;
+  flex-wrap: wrap;
+}

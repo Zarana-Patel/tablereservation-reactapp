@@ -1,0 +1,13 @@
+.logo {
+  align-self: center;
+  order: 2;
+}
+/*******************************************************************
+/* Desktop */
+
+@media screen and (min-width: 768px) {
+  .logo {
+    justify-self: start;
+    order: 1;
+  }
+}

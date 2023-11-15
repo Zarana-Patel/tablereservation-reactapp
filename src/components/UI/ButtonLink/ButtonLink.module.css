@@ -1,0 +1,16 @@
+.link {
+  background-color: var(--primary-two);
+  text-decoration: none;
+  display: inline-block;
+  border-radius: var(--border-radius-2x);
+  text-align: center;
+  color: black;
+  font-size: 1.8rem;
+  padding: 1.9rem 1.6rem;
+  min-width: 200px;
+  font-weight: bold;
+  transition: all 0.3s;
+}
+.link:hover {
+  box-shadow: 3px 3px 5px rgba(0,0,0,0.25);
+}
